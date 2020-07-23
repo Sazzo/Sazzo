@@ -8,6 +8,6 @@ Currently I like to program in Javascript (w/Typescript) and I'm 4 years with pr
 
 🐦 Twitter: FelipeSazz
 <br>
-🐟 Discord: sazz#1660
+🐟 Discord: sazz#0002
 <br>
 📩 Email: felipe@sazz.fail
