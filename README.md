@@ -4,7 +4,9 @@
 
 👋 Hello! Welcome to my profile! Definitely one thing you need to know about me, I very rarely manage to complete projects, however, in my many attempts and other personal things that I do in my day to day life, I am always learning and looking for new challenges (more than maybe I can't complete them).
 
-Currently I like to program in Javascript (w/Typescript) and I'm 4 years with programming experience, my focus is on the back-end but I do a few things on the front-end with VueJS. I'm currently learning React Native so I can make some cute apps (or not ...). I love watching anime and talking to my friends on Discord and you can even send me a DM!
+Main Language: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width=15px height=15px >
+<br>
+Learning: <img src="https://www.cbronline.com/wp-content/uploads/2018/12/kotlin.png" width=15px height=15px>
 
 🐦 Twitter: FelipeSazz
 <br>
