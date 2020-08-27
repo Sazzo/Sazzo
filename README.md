@@ -18,6 +18,6 @@ In fact, I leave my study repositories (very small things) here: https://github.
 ### Contact
 🐦 Twitter: FelipeSazz
 <br>
-🐟 Discord: sazz#0002
+🐟 Discord: sazz#2526
 <br>
 📩 Email: felipe@sazz.fail
