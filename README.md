@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/emojis/535558767794978816.png?v=1" width="3%"><h2>FelipeSazz</h2>
+<h2>FelipeSazz <img src="https://cdn.discordapp.com/emojis/535558767794978816.png?v=1" width="3%"</h2>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=dark&include_all_commits=true">
 <img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
