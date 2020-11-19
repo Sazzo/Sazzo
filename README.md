@@ -4,7 +4,7 @@
 <img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=dark&layout=compact&hide=css">
 
-Hi! My name is **Felipe** and you can call me **sazz**, I am Brazilian and **back-end developer** most of the time and I am trying (often failing) to be full-stack, I always love to challenge myself and I am extremely fan of anime and culture Japanese in general.
+Hi! My name is **Felipe** and you can call me **sazz**, I am Brazilian and **back-end developer** most of the time and I am trying (often failing) to be full-stack, I always love to challenge myself and I am extremely fan of anime and Japanese culture in general.
 
 > Currently working actively at [Ritsu](https://github.com/RitsuProject/Ritsu).
 
@@ -31,3 +31,5 @@ Email: [felipe@sazz.fail](mailto:felipe@sazz.fail)
 Discord: sazz#0002
 <br>
 Twitter: [FelipeSazz](https://twitter.com/FelipeSazz)
+<br>
+Telegram: [t.me/FelipeSazz](https://t.me/FelipeSazz)
