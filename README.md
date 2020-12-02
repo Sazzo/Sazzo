@@ -29,7 +29,7 @@ Hi! My name is **Felipe** and you can call me **sazz**, I am Brazilian and **bac
 
 Email: [felipe@sazz.fail](mailto:felipe@sazz.fail)
 <br>
-Discord: sazz#0002
+Discord: https://dsc.bio/sz
 <br>
 Twitter: [FelipeSazz](https://twitter.com/FelipeSazz)
 <br>
