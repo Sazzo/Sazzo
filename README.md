@@ -7,6 +7,7 @@
 Hi! My name is **Felipe** and you can call me **sazz**, I am Brazilian and **back-end developer** most of the time and I am trying (often failing) to be full-stack, I always love to challenge myself and I am extremely fan of anime and Japanese culture in general.
 
 > Currently working actively at [Ritsu](https://github.com/RitsuProject/Ritsu).
+> Learning Elixir 😊
 
 *Languages and tools I usually use:*
 <br>
