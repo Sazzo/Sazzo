@@ -24,7 +24,8 @@ Hi! My name is **Felipe** and you can call me **sazz**, I am Brazilian and **bac
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-7acc2d?style=flat-square&logo=Nginx&logoColor=white" />
 
 *Contact Me!*
 
