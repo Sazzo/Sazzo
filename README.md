@@ -39,5 +39,10 @@ Telegram: [t.me/FelipeSazz](https://t.me/FelipeSazz)
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=dark&include_all_commits=true">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=dark&layout=compact&hide=css">
+</details>
+<details>
+  <summary>Discord Stats</summary>
+  <img src="https://discord.c99.nl/widget/theme-2/326123612153053184.png">
 </details>
