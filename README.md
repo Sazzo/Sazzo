@@ -1,10 +1,8 @@
-<h2 align="center">FelipeSazz</h2>
+<h2>FelipeSazz <img src="https://cdn.discordapp.com/emojis/535558767794978816.png?v=1" width="3%"></h2>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=dark&include_all_commits=true">
-<br>
+<img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=dark&layout=compact&hide=css">
-<br>
-<img width="50%" align="right" src="https://discord.c99.nl/widget/theme-2/326123612153053184.png">
 
 Hi! My name is **Felipe** and you can call me **sazz**, I am Brazilian and **back-end developer** most of the time and I am trying (often failing) to be full-stack, I always love to challenge myself and I am extremely fan of anime and Japanese culture in general.
 
@@ -38,4 +36,3 @@ Discord: https://dsc.bio/sz
 Twitter: [FelipeSazz](https://twitter.com/FelipeSazz)
 <br>
 Telegram: [t.me/FelipeSazz](https://t.me/FelipeSazz)
-
