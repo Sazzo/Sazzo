@@ -1,5 +1,7 @@
 <p align="center">
-*Hello there. I'm <a href="https://sazz.fail">Sazz</a>. <br> I'm developer (mostly back-end dev) from **Brazil** who loves creative stuff.*
+*Hello there.* I'm <a href="https://sazz.fail">*Sazz*</a>
+<br> 
+*I'm developer (mostly back-end dev) from **Brazil** who loves creative stuff.*
 <br>
 <br>
 <img src="https://i.imgur.com/c0ypgPG.png" width="300"> 
