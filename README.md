@@ -2,6 +2,8 @@
   <samp>Hello there. I'm <a href="https://sazz.fail">Sazz</a></samp>
 <br> 
   <samp>I'm developer (mostly back-end dev) from Brazil who loves creative stuff.</samp>
+  <br>
+  <samp>Working on Ritsu and MyOpeningList with a amazing team.</samp>
 <br>
 <br>
 <img src="https://i.imgur.com/c0ypgPG.png" width="300"> 
