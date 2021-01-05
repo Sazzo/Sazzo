@@ -1,16 +1,19 @@
-<h2>FelipeSazz <img src="https://cdn.discordapp.com/emojis/535558767794978816.png?v=1" width="3%"></h2>
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=dark&include_all_commits=true">  
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=dark&layout=compact&hide=css">
-
-Hi! My name is **Felipe** and you can call me **sazz**, I am Brazilian and **back-end developer** most of the time and I am trying (often failing) to be full-stack, I always love to challenge myself and I am extremely fan of anime and Japanese culture in general.
-
-> Currently working actively at [Ritsu](https://github.com/RitsuProject/Ritsu).<br>
-> Learning Elixir 😊 and (slowly) Kotlin too!
-
-*Languages and tools I usually use:*
+<p align="center">
+*Hello there. I'm <a href="https://sazz.fail">Sazz</a>. <br> I'm developer (mostly back-end dev) from **Brazil** who loves creative stuff.*
 <br>
-<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" /> 
+<br>
+<img src="https://i.imgur.com/c0ypgPG.png" width="300"> 
+<br>
+<br>
+<details>
+  <summary>Github Stats</summary>
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=dark&include_all_commits=true">  
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=dark&layout=compact&hide=css">
+</details>
+<br>
+<details>
+  <summary>Tools and Languages</summary>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" /> 
 <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-0879c9?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-27cc56?style=flat-square&logo=nuxt.js&logoColor=white" /> 
@@ -25,13 +28,16 @@ Hi! My name is **Felipe** and you can call me **sazz**, I am Brazilian and **bac
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-7acc2d?style=flat-square&logo=Nginx&logoColor=white" />
-
-*Contact Me!*
-
-Email: [felipe@sazz.fail](mailto:felipe@sazz.fail)
+</details>
 <br>
-Discord: https://dsc.bio/sz
-<br>
-Twitter: [FelipeSazz](https://twitter.com/FelipeSazz)
-<br>
-Telegram: [t.me/FelipeSazz](https://t.me/FelipeSazz)
+<details>
+  <summary>Contact</summary>
+  Email: [felipe@sazz.fail](mailto:felipe@sazz.fail)
+  <br>
+  Discord: https://dsc.bio/sz
+  <br>
+  Twitter: [FelipeSazz](https://twitter.com/FelipeSazz)
+  <br>
+  Telegram: [t.me/FelipeSazz](https://t.me/FelipeSazz)
+</details>
+</p>
