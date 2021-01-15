@@ -6,7 +6,7 @@
   <samp>Working on Ritsu and MyOpeningList with a amazing team.</samp>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/Sazzo/Sazzo/master/Doma_Umaru_Java_Script_The_Good_Parts-08ef417db2b5d059f719c44bf2cf8837.png"> 
+<img src="https://raw.githubusercontent.com/Sazzo/Sazzo/master/Doma_Umaru_Java_Script_The_Good_Parts-08ef417db2b5d059f719c44bf2cf8837.png" width="70%"> 
 <br>
 <br>
 <details>
