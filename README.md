@@ -2,11 +2,9 @@
   <samp>Hello there. I'm <a href="https://sazz.fail">Sazz</a></samp>
 <br> 
   <samp>I'm developer (mostly back-end dev) from Brazil who loves creative stuff.</samp>
-  <br>
-  <samp>Working on Ritsu and MyOpeningList with a amazing team.</samp>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/Sazzo/Sazzo/master/Doma_Umaru_Java_Script_The_Good_Parts-08ef417db2b5d059f719c44bf2cf8837.png" width="70%"> 
+<img src="https://i.imgur.com/ISjiG5M.png" width="29%"> 
 <br>
 <br>
 <details>
@@ -34,4 +32,5 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-7acc2d?style=flat-square&logo=Nginx&logoColor=white" />
 </details>
+<br>
 </p>
