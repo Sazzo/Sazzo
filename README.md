@@ -1,11 +1,9 @@
 <p align="center">
-  <samp>Hello there. I'm <a href="https://sazz.fail">Sazz</a></samp>
-<br> 
-  <samp>I'm developer (mostly back-end dev) from Brazil who loves creative stuff.</samp>
-<br>
-<br>
-<img src="https://i.imgur.com/ISjiG5M.png" width="29%"> 
-<br>
+  <samp>Hello there.</samp>
+  <br>
+  <samp>i'm sazz and i like to develop cool things</samp>
+  <br>
+  <samp>and...that's it, feel free to see my main project! https://ritsu.fun</samp>
 <br>
 <details>
   <summary>Github Stats</summary>
