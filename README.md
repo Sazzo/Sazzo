@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/oVxj6xt.png" width="920">
+  <img src="https://i.imgur.com/oVxj6xt.png" width="700">
+  <br>
   <samp>Hello there.</samp>
   <br>
   <samp>i'm sazz and i like to develop cool things</samp>
