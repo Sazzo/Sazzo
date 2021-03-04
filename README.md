@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/oVxj6xt.png" width="720">
-<br>
-<details>
-  <summary>Github Stats</summary>
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=dark&include_all_commits=true">  
-  <br>
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=dark&layout=compact&hide=css">
-</details>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=tokyonight&include_all_commits=true">  
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=tokyonight&layout=compact&hide=css">
+</p>
 <br>
 <details>
   <summary>Tools and Languages</summary>
