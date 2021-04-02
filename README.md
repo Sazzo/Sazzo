@@ -1,6 +1,6 @@
 <h1 align="center">FelipeSazz</h1>
-<p align="center"><samp>「 Back-End Developer (or full-stack sometimes) @ <b>RitsuProject</b> 」</samp></p>
 <p align="center">
+<p align="center"><samp>「 Back-End Developer (or full-stack sometimes) @ <b>RitsuProject</b> 」</samp></p>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=tokyonight&include_all_commits=true">  
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=tokyonight&layout=compact&hide=css">
