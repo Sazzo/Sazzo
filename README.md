@@ -17,7 +17,7 @@
 <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<p>Currently I maintain and develop **Ritsu, a Discord bot based on the AnimeMusicQuiz (AMQ) game** that is in 800+ guilds, most of my projects are personal and with a lot to do with what I love, anime, I'm also building WhatChapter (that might not even be the definitive name), **a platform that helps you find where your favorite anime stopped in the manga** (looking for front-end devs). I am addicted to building fun projects that really innovate and can help at least 1 person.</p>
+<p>Currently I maintain and develop <b>Ritsu, a Discord bot based on the AnimeMusicQuiz (AMQ) game</b> that is in 800+ guilds, most of my projects are personal and with a lot to do with what I love, anime, I'm also building WhatChapter (that might not even be the definitive name), <b>a platform that helps you find where your favorite anime stopped in the manga</b> (looking for front-end devs). I am addicted to building fun projects that really innovate and can help at least 1 person.</p>
 
 <p>Goodbye!</p>
 </p>
