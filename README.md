@@ -2,8 +2,8 @@
 <p align="center">
 <p align="center"><samp>「 Back-End Developer (or full-stack sometimes) @ <b>RitsuProject</b> 」</samp></p>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=light&include_all_commits=true">  
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=light&layout=compact&hide=css">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=tokyonight&include_all_commits=true">  
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=tokyonight&layout=compact&hide=css">
 
 <p>Heyo! My name is Felipe but I use the nickname "sazz" (or FelipeSazz) and I am 14 years old. I am a back-end developer from Brazil with a interest in building highly scalable things, DevOps and Elixir but I am already familiar with following technologies:</p>
 
