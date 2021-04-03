@@ -26,7 +26,7 @@
 
 <p>Currently I maintain and develop <b>Ritsu, a Discord bot based on the AnimeMusicQuiz (AMQ) game</b> that is in 800+ guilds, most of my projects are personal and with a lot to do with what I love, anime.<br><br> I'm also building WhatChapter (that might not even be the definitive name), <b>a platform that helps you find where your favorite anime stopped in the manga</b> (looking for front-end devs).</p>
 
-<p>You can send me a Hi through my Discord!<code>sazz#3503</code></p>
+<p>You can send me a Hi through my Discord! <code>sazz#3503</code></p>
 
 <p>And that's it. Goodbye!</p>
 </p>
