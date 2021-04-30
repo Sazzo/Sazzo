@@ -24,7 +24,7 @@
 <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<p>Currently I maintain and develop <b>Ritsu, a Discord bot based on the AnimeMusicQuiz (AMQ) game</b> that is in 800+ guilds, most of my projects are personal and with a lot to do with what I love, anime.<br><br> I'm also building Koyumi, <b>a platform that helps you find where your favorite anime stopped in the manga</b> (looking for front-end devs).</p>
+<p>Currently I maintain and develop <b>Ritsu, a Discord bot based on the AnimeMusicQuiz (AMQ) game</b> that is in 900+ guilds, most of my projects are personal and with a lot to do with what I love, anime.<br><br> I'm also building Koyumi, <b>a platform that helps you find where your favorite anime stopped in the manga</b> (in hiatus :P).</p>
 
 <p>You can send me a Hi through my Discord! <code>sazz#1000</code></p>
 
