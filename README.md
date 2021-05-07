@@ -1,32 +1,18 @@
-<h1 align="center">FelipeSazz</h1>
-<p align="center">
-<p align="center"><samp>「 Back-End Developer (or full-stack sometimes) @ <b>RitsuProject</b> 」</samp></p>
+<p><b>Hello there! I'm Sazz! 😊</b></p>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Sazzo&show_icons=true&theme=tokyonight&include_all_commits=true">  
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzo&theme=tokyonight&layout=compact&hide=css">
+I'm a backend developer living in Salvador, Brazil! I mostly use the nickname of "sazz" but my real name is Felipe and I'm 14 years old. 
 
-<p>Heyo! My name is Felipe but I use the nickname "sazz" (or FelipeSazz) and I am 14 years old. I am a back-end developer from Brazil with a interest in building highly scalable things, DevOps and Elixir but I am already familiar with following technologies:</p>
+---
 
-<p align="center">
-<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" /> 
-<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-0879c9?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
-<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-27cc56?style=flat-square&logo=nuxt.js&logoColor=white" /> 
-<img alt="Vue" src="https://img.shields.io/badge/-Vue-384960?style=flat-square&logo=vue.js&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-3d3d3d?style=flat-square&logo=linux&logoColor=white" /> 
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-3d3d3d?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="yarn" src="https://img.shields.io/badge/-Yarn-289bed?style=flat-square&logo=yarn&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="Eslint" src="https://img.shields.io/badge/-Eslint-6032a8?style=flat-square&logo=eslint&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+I love to create things which I think will be useful for someone or it's a super crazy idea, I also don't like so much the idea of learning multiple programming languages in the same time, I prefer focus on one and just learn what I need and make use. My relevant projects are pinned, but here is a brief description about what i'm doing now:
 
-<p>Currently I maintain and develop <b>Ritsu, a Discord bot based on the AnimeMusicQuiz (AMQ) game</b> that is in 900+ guilds, most of my projects are personal and with a lot to do with what I love, anime.<br><br> I'm also building Koyumi, <b>a platform that helps you find where your favorite anime stopped in the manga</b> (in hiatus :P).</p>
+- ✨ Ritsu, A Discord Bot based on the AnimeMusicQuiz (AMQ) game, is one of my biggest projects and now is on more than 900 guilds and serving around 100 matches everyday.
+- 📚 Koyumi, A open-source platform where you can find in which chapter of the manga your favorite anime ended up! One of my crazy ideas and still not finished, this project is a mix of what I think will be useful for me and for other people and with me learning more about NestJS and VueJS.
+- 🎲 AleScore, A website that shows Alexandre Esteves last changed score on MyAnimeList. This is a really funny one, I made this for one of my favorite brazilian anime youtubers, Jumentossauro which is something that's started as meme ("Looks like people are watching my animelist to see I change a score") to a real website.
 
-<p>You can send me a Hi through my Discord! <code>sazz#1000</code></p>
+## 💌 How to reach me 
 
-<p>And that's it. Goodbye!</p>
-</p>
+- The most easy what to get in touch with me, is sending me a direct message on Discord: `sazz#1000`
+- If you want do send me in a more professional way, you can send me a email using this address [sazz@ritsu.fun](mailto:sazz@ritsu.fun)
+- Otherwise, feel free to send me a DM on my [Twitter](https://twitter.com/FelipeSazz) which usually I post some brazilian shit and talking about my tedious life.
+- I also have a [Telegram](https://t.me/FelipeSazz), but I don't use so much so the chance you will get ignored is high.
