@@ -13,6 +13,6 @@ I love to create things which I think will be useful for someone or it's a super
 ## 💌 How to reach me 
 
 - The most easy what to get in touch with me, is sending me a direct message on Discord: `sazz#1000`
-- If you want do send me in a more professional way, you can send me a email using this address [sazz@ritsu.fun](mailto:sazz@ritsu.fun)
+- If you want to contact me in a more professional way, you can send me a email using this address [sazz@ritsu.fun](mailto:sazz@ritsu.fun)
 - Otherwise, feel free to send me a DM on my [Twitter](https://twitter.com/FelipeSazz) which usually I post some brazilian shit and talk about my tedious life.
 - I also have a [Telegram](https://t.me/FelipeSazz), but I don't use so much so the chance you will get ignored is high.
