@@ -10,6 +10,8 @@ I love to create things which I think will be useful for someone or it's a super
 - 📚 Koyumi, A open-source platform where you can find in which chapter of the manga your favorite anime ended up! One of my crazy ideas and still not finished, this project is a mix of what I think will be useful for me and for other people and with me learning more about NestJS and VueJS.
 - 🎲 AleScore, A website that shows Alexandre Esteves last changed score on MyAnimeList. This is a really funny one, I made this for one of my favorite brazilian anime youtubers, Jumentossauro which is something that's started as meme ("Looks like people are watching my animelist to see when I change a score") to a real website.
 
+Also, I'm a big fan of [software freedom](https://www.gnu.org/philosophy/free-sw.en.html) ⚖
+
 ## 💌 How to reach me 
 
 - The most easy what to get in touch with me, is sending me a direct message on Discord: `sazz#1000`
