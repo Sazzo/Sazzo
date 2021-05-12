@@ -1,6 +1,6 @@
 <h3><b>Hello there! I'm Sazz! 😊</b></h3>
 
-I'm a backend developer living in Salvador, Brazil! I mostly use the nickname of "sazz" but my real name is Felipe and I'm 14 years old using my free time to create new things to the world!
+I'm a backend developer living in Salvador, Brazil! I mostly use the nickname of "sazz" but my real name is Felipe and I'm using my free time to create new things to the world!
 
 ---
 
