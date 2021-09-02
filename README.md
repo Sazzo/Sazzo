@@ -4,6 +4,8 @@ I'm a  software engineer, most focused on backend development with TypeScript! �
 <br>
 Coding since 8 years old, doing minecraft plugins and a lot of things. Passionate about anime and manga, that's why my projects have so much weeb energy on them.
 
+I'm a huge fan of [Prisma](https://prisma.io) and [Docker](https://docker.com)! 
+
 <h4>Get in touch with me! 🎈</h4>
  
 • <strong>Discord</strong>: <code>sazz#1000</code>
