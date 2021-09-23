@@ -10,7 +10,7 @@ And...I'm a huge fan of [Prisma](https://prisma.io) and [Docker](https://docker.
 
 <h4>Get in touch with me! 🎈</h4>
  
-• <strong>Discord</strong>: <code>sazz#1000</code>
+• <strong>Discord</strong>: <code>sazz#3572</code>
 <br>
 • <strong>Twitter</strong>: <code>@FelipeSazz</code>
 <br>
