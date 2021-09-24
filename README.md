@@ -4,7 +4,7 @@ I'm a  software engineer, most focused on backend development with TypeScript! â
 <br>
 Coding since 8 years old, doing minecraft plugins and a lot of things. Passionate about anime and manga, that's why my projects have so much weeb energy on them.
 
-Currently, I'm a backend developer at [CatManga](https://catmanga.org) where I have a chance to do amazing stuff with a lot of amazing people, in my free time, I like to work on personal projects too.
+Currently, I'm a backend developer at [CatManga](https://catmanga.org) where I have a chance to do amazing stuff with a lot of amazing people, and I like to work on personal projects too.
 
 And...I'm a huge fan of [Prisma](https://prisma.io) and [Docker](https://docker.com)! 
 
