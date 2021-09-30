@@ -16,6 +16,8 @@ And...I'm a huge fan of [Prisma](https://prisma.io) and [Docker](https://docker.
 <br>
 • <strong>Email</strong>: <code>hello@sazz.space</code>
 
+• pfp by [@puputizy](https://twitter.com/puputizy) 💖
+
 ___
 <p align="center">
   <img src="https://count.getloli.com/get/@Sazzo?theme=gelbooru" />
