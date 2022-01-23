@@ -18,7 +18,3 @@ A huge fan of [Prisma](https://prisma.io) and [Docker](https://docker.com)!
   <img src="https://lanyard.cnrad.dev/api/326123612153053184">
 </a>
 
-___
-<p align="center">
- <img src="https://count.getloli.com/get/@Sazzo?theme=gelbooru" />
-</p>
