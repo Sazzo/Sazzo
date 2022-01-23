@@ -4,7 +4,7 @@ I'm a  software engineer, most focused on backend development with TypeScript! �
 <br>
 Coding since 8 years old, doing minecraft plugins and a lot of things. Passionate about anime and manga, that's why my projects have so much weeb energy on them.
 
-And...I'm a huge fan of [Prisma](https://prisma.io) and [Docker](https://docker.com)! 
+A huge fan of [Prisma](https://prisma.io) and [Docker](https://docker.com)! 
 
 <h4>Get in touch with me! 🎈</h4>
  
@@ -14,9 +14,11 @@ And...I'm a huge fan of [Prisma](https://prisma.io) and [Docker](https://docker.
 <br>
 • <strong>Email</strong>: <code>hello@sazz.space</code>
 
-• Profile Picture by [@jeonghee1414](https://twitter.com/jeonghee1414) 💖
+<a href="https://discord.com/users/326123612153053184">
+  <img src="https://lanyard.cnrad.dev/api/326123612153053184">
+</a>
 
 ___
 <p align="center">
-  <img src="https://count.getloli.com/get/@Sazzo?theme=gelbooru" />
+ <img src="https://count.getloli.com/get/@Sazzo?theme=gelbooru" />
 </p>
