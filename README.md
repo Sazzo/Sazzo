@@ -1,10 +1,12 @@
 <h3>👋 Hello there.</h3>
 
-I'm a  software engineer, most focused on backend development with TypeScript! ❤
+I'm a  software engineer and backend developer.
 <br>
 Coding since 8 years old, doing minecraft plugins and a lot of things. Passionate about anime and manga, that's why my projects have so much weeb energy on them.
 
-A huge fan of [Prisma](https://prisma.io) and [Docker](https://docker.com)! 
+Professional in abandoning projects, and loves to mess around with different technologies. Proficient in **TS/JS**, especially on server-side and big fan of [Docker](https://docker.com) and [Prisma](https://prisma.io).
+
+Outside of programming, I love managing and moderating communities and reading some wholesome manga. Also, pineapple *shouldn't* be on pizza, this is a war crime.
 
 <h4>Get in touch with me! 🎈</h4>
  
