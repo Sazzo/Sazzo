@@ -10,7 +10,7 @@ Outside of programming, I love managing and moderating communities and reading s
 
 <h4>Get in touch with me! 🎈</h4>
  
-• <strong>Discord</strong>: <code>sazz#3572</code>
+• <strong>Discord</strong>: <code>sazz#1000</code>
 <br>
 • <strong>Twitter</strong>: <code>@FelipeSazz</code>
 <br>
