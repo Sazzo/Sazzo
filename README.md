@@ -1,20 +1,22 @@
 <h3>👋 Hello there.</h3>
-
-I'm a  software engineer and backend developer.
+I'm a backend developer based on Brazil 🇧🇷
 <br>
-Coding since 8 years old, doing minecraft plugins and a lot of things. Passionate about anime and manga, that's why my projects have so much weeb energy on them.
+<br>
 
-Professional in abandoning projects, and loves to mess around with different technologies. Proficient in **TS/JS**, especially on server-side and big fan of [Docker](https://docker.com) and [Prisma](https://prisma.io).
-
-Outside of programming, I love managing and moderating communities and reading some wholesome manga. Also, pineapple *shouldn't* be on pizza, this is a war crime.
+Professional in abandoning projects, and loves to mess around with different technologies. Proficient in **TypeScript** & **JavaScript**, especially on server-side. Interested in DevOps and InfoSec.
 
 <h4>Get in touch with me! 🎈</h4>
  
+• <strong>Website</strong>: https://sazz.dev
+<br>
+• <strong>LinkedIn</strong>: https://linkedin.sazz.dev
+<br>
+• <strong>Email</strong>: hello@sazz.dev
+<br>
 • <strong>Discord</strong>: <code>sazz#1000</code>
 <br>
 • <strong>Twitter</strong>: <code>@FelipeSazz</code>
-<br>
-• <strong>Email</strong>: <code>hello@sazz.space</code>
+
 
 <a href="https://discord.com/users/326123612153053184">
   <img src="https://lanyard.cnrad.dev/api/326123612153053184">
