@@ -11,9 +11,9 @@ Professional in abandoning projects, and loves to mess around with different tec
 <br>
 • <strong>LinkedIn</strong>: https://linkedin.sazz.dev
 <br>
-• <strong>Email</strong>: hello@sazz.dev
+• <strong>Email</strong>: felipe@sazz.dev
 <br>
-• <strong>Discord</strong>: <code>sazz#1000</code>
+• <strong>Discord</strong>: <code>sazz#5212</code>
 <br>
 • <strong>Twitter</strong>: <code>@FelipeSazz</code>
 
