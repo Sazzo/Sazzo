@@ -13,7 +13,7 @@ Professional in abandoning projects, and loves to mess around with different tec
 <br>
 • <strong>Email</strong>: felipe@sazz.dev
 <br>
-• <strong>Discord</strong>: <code>sazz#5212</code>
+• <strong>Discord</strong>: <code>@felipesazz</code>
 <br>
 • <strong>Twitter</strong>: <code>@FelipeSazz</code>
 
