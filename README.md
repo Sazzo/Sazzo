@@ -1,11 +1,9 @@
 <h3>👋 Hello there.</h3>
-I'm a backend developer based on Brazil 🇧🇷
+I'm a software developer and freelancer based on Brazil 🇧🇷
 <br>
 <br>
 
-Professional in abandoning projects, and loves to mess around with different technologies. Proficient in **TypeScript** & **JavaScript**, especially on server-side. Interested in DevOps and InfoSec.
-
-<h4>Get in touch with me! 🎈</h4>
+I work (usually) with **TypeScript**, **NestJS**, **PostgreSQL**, **Prisma**, **Svelte** and **React** + have more than six years of practical software development experience. Most of the time I'm working with clients (so...private repos!), but sometimes a miracle hits and I launch a personal project, which tends to be open-source! 💖
  
 • <strong>Website</strong>: https://sazz.dev
 <br>
@@ -16,9 +14,3 @@ Professional in abandoning projects, and loves to mess around with different tec
 • <strong>Discord</strong>: <code>@felipesazz</code>
 <br>
 • <strong>Twitter</strong>: <code>@FelipeSazz</code>
-
-
-<a href="https://discord.com/users/326123612153053184">
-  <img src="https://lanyard.cnrad.dev/api/326123612153053184">
-</a>
-
