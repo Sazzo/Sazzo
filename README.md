@@ -12,5 +12,3 @@ I work (usually) with **TypeScript**, **NestJS**, **PostgreSQL**, **Prisma**, **
 • <strong>Email</strong>: felipe@sazz.dev
 <br>
 • <strong>Discord</strong>: <code>@felipesazz</code>
-<br>
-• <strong>Twitter</strong>: <code>@FelipeSazz</code>
